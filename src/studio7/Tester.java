@@ -15,7 +15,6 @@ public class Tester {
 		System.out.println(r2.isSmaller(r));
 		//System.out.println(r2); //memory address is printed
 
-		
 		Fraction f = new Fraction(2,3);
 		System.out.println(f);
 		

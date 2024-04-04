@@ -19,9 +19,16 @@ public class Fraction {
 	public int getNumerator() {
 		return numerator;
 	}
+	
+	
+	
+	
 	public int getDenominator() {
 		return denominator;
 	}
+	
+	
+	
 	
 	
 	@Override
